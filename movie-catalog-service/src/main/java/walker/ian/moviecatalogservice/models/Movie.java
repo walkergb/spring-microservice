@@ -1,4 +1,4 @@
-package walker.ian.movieinfoservice.models;
+package walker.ian.moviecatalogservice.models;
 
 public class Movie {
 	private String movieId;
