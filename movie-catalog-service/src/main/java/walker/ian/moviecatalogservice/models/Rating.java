@@ -8,6 +8,9 @@ public class Rating {
 		this.movieId = movieId;
 		this.rating = rating;
 	}
+	public Rating() {
+		// TODO Auto-generated default constructor stub
+	}
 
 	public String getMovieId() {
 		return movieId;
